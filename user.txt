@@ -1,5 +1,4 @@
 command-not-found
-command-not-found-data
 emacs23-nox
 keychain
 mailutils
