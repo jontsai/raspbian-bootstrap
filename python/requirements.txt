@@ -1,0 +1,13 @@
+Fabric==1.4.2
+RPi.GPIO==0.5.3a
+argparse==1.2.1
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.24dev-r0
+nose==1.1.2
+numpy==1.6.2
+paramiko==1.7.7.1
+pycrypto==2.6
+pygame==1.9.1release
+python-apt==0.8.8.1
+virtualenv==1.7.1.2
+wsgiref==0.1.2
