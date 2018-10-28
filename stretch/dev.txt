@@ -1,0 +1,5 @@
+emacs-nox
+#python-daemon
+python-pip
+#python-virtualenv
+#python2.7-dev

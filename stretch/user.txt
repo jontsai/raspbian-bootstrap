@@ -1,0 +1,7 @@
+command-not-found
+emacs-nox
+keychain
+mailutils
+p7zip-full
+pwgen
+zlib1g-dev
